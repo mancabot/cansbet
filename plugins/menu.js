@@ -85,7 +85,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ 𝗨𝗽𝘁𝗶𝗺𝗲: *%uptime*
 │ 𝗠𝗮𝗶𝗻 𝘂𝗽𝘁𝗶𝗺𝗲: *%muptime*
 │ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: %totalreg nomor
-│ 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
+│ 
 │ @NurulCans
 ╰────
 ╭─〘 𝗣𝗮𝘁𝘂𝗵𝗶 𝗽𝗲𝗿𝗮𝘁𝘂𝗿𝗮𝗻 〙
